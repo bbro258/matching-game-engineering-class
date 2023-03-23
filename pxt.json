@@ -6,7 +6,8 @@
         "microphone": "*"
     },
     "files": [
-        "main.ts"
+        "main.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
